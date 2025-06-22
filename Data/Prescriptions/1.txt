@@ -1,0 +1,23 @@
+Prescription No: 1 
+Date and Time: 2024-03-06 15:45:53.141743 
+
+Doctor's Details:- 
+UID: 1 
+Name: Alex Rolls 
+Email: d@gmail.com 
+Ph. No.: 9809867845 
+
+Patient's Details:- 
+UID: 1 
+Name: Ramesh Kerai 
+Email: p@gmail.com 
+Ph. No.: 9876543845 
+
+Description:- 
+Drink more Water. 
+
+Medicines:- 
+1. COUGH SYRUP (Rate: 300.0) Quantity: 1 Subtotal: 300.0 
+2. INSULIN (Rate: 1000.0) Quantity: 1 Subtotal: 1000.0
+
+Total Amount: 1300.0 

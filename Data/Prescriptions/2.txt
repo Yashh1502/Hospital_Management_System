@@ -1,0 +1,22 @@
+Prescription No: 2 
+Date and Time: 2024-03-13 12:33:34.394766 
+
+Doctor's Details:- 
+UID: 1 
+Name: Alex Rolls 
+Email: d@gmail.com 
+Ph. No.: 9809867845 
+
+Patient's Details:- 
+UID: 1 
+Name: Ramesh Kerai 
+Email: p@gmail.com 
+Ph. No.: 9876543845 
+
+Description:- 
+drink 7letars of water. 
+
+Medicines:- 
+1. PARACETAMOL (Rate: 150) Quantity: 3 Subtotal: 450.0 
+
+Total Amount: 450.0 
